@@ -1,5 +1,5 @@
 # GroceryList
-An exercise in implementation of CRUD concepts in C#
+An exercise in implementation of CRUD concepts in C# to manage a grocery list
 
 This is a Console Application made in C#
 
