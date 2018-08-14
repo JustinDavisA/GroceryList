@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\GroceryList\GroceryList\bin\Debug\GroceryList.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\GroceryList\GroceryList\bin\Debug\GroceryList.exe
+c:\users\admin\documents\visual studio 2013\Projects\GroceryList\GroceryList\bin\Debug\GroceryList.pdb
+c:\users\admin\documents\visual studio 2013\Projects\GroceryList\GroceryList\obj\Debug\GroceryList.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\GroceryList\GroceryList\obj\Debug\GroceryList.exe
+c:\users\admin\documents\visual studio 2013\Projects\GroceryList\GroceryList\obj\Debug\GroceryList.pdb
